@@ -59,46 +59,46 @@ p {
     border: 10px;
     border-color: rgb(66, 44, 2);
     padding-bottom: 20px;
-}
+};
 
 #darkdancettl {
     background-color: whitesmoke;
     text-align: center;
-}
+};
 
 #darkdancecontent {
     background-color: whitesmoke;
-}
+};
 
 #DDR {
     background-color: whitesmoke;
     text-align: center;
-}
+};
 
 #DDR2 {
     background-color: whitesmoke;
-}
+};
 
 #bookmark {
     align-content: center;
     align-self: center;
     float: center;
-}
+};
 
 #bookcont {
     align-content: center;
     text-align: center;
     align-self: center;
-}
+};
 
 #legacyPar {
     background-color: whitesmoke;
     text-align: center;
-}
+};
 
 #poem {
     background-color:grey;
-}
+};
 
 #nav-carole {
     position: static;
