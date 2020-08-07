@@ -1,0 +1,112 @@
+body {
+    background-image: url(/Caroles-Site/pexels-pixabay-46160.jpg);
+    background-repeat: no-repeat;
+}
+
+#Books-by-Carole {
+    color: rgb(27, 26, 24);
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style: dashed;
+    border: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+p {
+    color: rgb(0, 0, 8);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: solid;
+}
+
+#BIO {
+    align-content: center;
+    border: 10px;
+    border-color: rgb(14, 10, 4);
+    border-style: solid;
+}
+
+#imagelocation {
+    align-content: center;
+    text-align: center;
+    border: 10px;
+    border-color: rgb(0, 0, 0);
+}
+
+#shortbio {
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+#biolocation {
+    text-align: center;
+    border: .5cm;
+    border-style: solid;
+    text-overflow: clip;
+    background-color: whitesmoke;
+}
+
+#stroll {
+    text-align: center;
+    align-content: center;
+    float: none;
+    border: 10px;
+    border-color: rgb(66, 44, 2);
+    border-style: solid;
+    
+}
+
+#strollbox {
+    text-align: center;
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    border: 10px;
+    border-color: rgb(66, 44, 2);
+    padding-bottom: 20px;
+}
+
+#darkdancettl {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+#darkdancecontent {
+    background-color: whitesmoke;
+}
+
+#DDR {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+#DDR2 {
+    background-color: whitesmoke;
+}
+
+#bookmark {
+    align-content: center;
+    align-self: center;
+    float: center;
+}
+
+#bookcont {
+    align-content: center;
+    text-align: center;
+    align-self: center;
+}
+
+#legacyPar {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+#poem {
+    background-color:grey;
+}
+
+#nav-carole {
+    position: static;
+    text-align: right;
+    align-self: right;
+};
